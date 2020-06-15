@@ -253,7 +253,7 @@ def make_genesis_block(overrides=None):
         "total_difficulty": 131072,
         "size": 0,
         "extra_data": ZERO_32BYTES,
-        "gas_limit": 3141592,
+        "gas_limit": 2*3141592,
         "gas_used": 0,
         "timestamp": int(time.time()),
         "transactions": [],
