@@ -1,8 +1,9 @@
 Unreleased
 -------------
 
-None
+- Breaking changes
 
+  - Increase default block gas limit to two pi
 
 v0.5.0-beta.1
 -------------
