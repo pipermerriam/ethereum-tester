@@ -1,7 +1,8 @@
 Unreleased
 -------------
 
-None
+- Features
+	- Created better test for gas estimate with block identifiers
 
 v0.5.0-beta.2
 -------------
